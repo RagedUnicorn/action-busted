@@ -1,5 +1,7 @@
 # action-busted
 
+![action-busted](docs/action_busted_banner.svg)
+
 > A GitHub action that uses busted to run Lua unit tests on a codebase or specific spec files
 
 # How to use
